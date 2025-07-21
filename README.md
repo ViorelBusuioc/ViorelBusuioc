@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViorelBusuioc
-- 👀 I’m interested in Java Spring and SQL development
-- 🌱 I’m currently learning JavaScript and Angular/React
+- 👀 I’m interested in Java Spring and JavaScript React development
+- 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on programming related projects
 - 📫 You can reach me at busuiocviorel.ro@gmail.com
 
